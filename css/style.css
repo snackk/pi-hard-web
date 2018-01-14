@@ -19,7 +19,7 @@ body{
 	background:#FFFFFF;
 }
 .banner{
-	background: url(../images/1.jpg) no-repeat 0px 0px;
+	background: url(../images/p1.png) no-repeat 0px 0px;
     background-size: cover;
 }
 .agileinfo-dot{
@@ -41,6 +41,7 @@ body{
 /*-- header --*/
 .agileits-logo {
 	text-align:center;
+    border-bottom:-2rem;
 }
 .agileits-logo h1{
 	margin:0;
@@ -67,6 +68,7 @@ body{
 }
 .navbar {
     margin-bottom: 0;
+    margin-top:-7em;
 }
 .navbar-collapse {
     padding: 0;
@@ -369,7 +371,7 @@ body{
     margin: 4em 0 0 0;
 }
 .w3about-img {
-    background: url(../images/2.jpg)no-repeat 0px 0px;
+    background: url(../images/p2.png)no-repeat 0px 0px;
     background-size: cover;
     min-height: 30em;
     padding: 0;
@@ -687,7 +689,7 @@ ul.simplefilter {
 /*-- //model --*/
 /*-- testimonial --*/
 .testimonial{
-	background:url(../images/1.jpg) no-repeat 0px 0px;
+	background:url(../images/p1.png) no-repeat 0px 0px;
 	background-size:cover;
 }
 .testimonial-dot{
@@ -1423,7 +1425,7 @@ ul.simplefilter {
 		text-align: center;
 	}
 	.navbar-nav {
-	    margin: 1em 0;
+	    margin: 0em 0;
 	}
 	.header-top-info ul li {
 		display: block;
